@@ -10,6 +10,7 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 #### Undergraduate Lab Assistant under Dr. Taesung Park, Seoul National University: Jun, 2021 - Current
 #### Undergraduate Lab Assistant under Dr. Yei Eun Shin, Seoul National University: Feb, 2024 - Current
 
+<br/>
 ### Publication
 #### Enhancing the performance of COVID-19 case forecasting through mathematical modeling
 * Authors: **Jooha Oh**, Caterine Apio, and Taesung Park
