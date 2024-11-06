@@ -16,7 +16,6 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 * Authors: **Jooha Oh**, Caterine Apio, and Taesung Park
 * Extended the classical SIR model to the SEIQRDV3P model, incorporating three stages of vaccination as new compartments and accounting for the ratio of delta and omicron variants.
 
-<br/>
 #### Forecasting the spread of COVID-19 based on policy, vaccination, and Omicron data.
 * Authors: Kyulhee Han, Bogyeom Lee, Doeun Lee, Gyujin Heo, **Jooha Oh**, Seoyoung Lee, Catherine Apio, and Taesung Park
 * Systematically compared various machine learning prediction models and predictor variables to assess their impact on forecasting COVID-19 indicators.
