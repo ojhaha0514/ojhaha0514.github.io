@@ -4,7 +4,7 @@ title: Research
 ---
 
 
-I can also be found from [Google Scholar](https://scholar.google.com/citations?user=seokhoson).
+I can also be found from [Google Scholar](https://scholar.google.com/citations?user=XJbTq5kAAAAJ&hl=ko&oi=ao).
 
 ### Research Experience
 #### Undergraduate Lab Assistant under Dr. Taesung Park, Seoul National University: Jun, 2021 - Current
