@@ -34,4 +34,4 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 #### Bootstrap-based confidence intervals for infectious disease forecasting models
 * Authors: Taewan Goo, Kyulhee Han, Hanbyul Song, Jiwon Park, Zhe Liue, **Jooha Oh**, Sayooj Abi Jose, and Taesung Park
-* proposed a generalized framework using bootstrap-based confidence intervals to enhance uncertainty quantification in COVID-19 forecasting models.
+* Proposed a generalized framework using bootstrap-based confidence intervals to enhance uncertainty quantification in COVID-19 forecasting models.
