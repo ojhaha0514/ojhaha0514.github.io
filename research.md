@@ -15,10 +15,12 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 #### Enhancing the performance of COVID-19 case forecasting through mathematical modeling
 * Authors: **Jooha Oh**, Caterine Apio, and Taesung Park
 * Extended the classical SIR model to the SEIQRDV3P model, incorporating three stages of vaccination as new compartments and accounting for the ratio of delta and omicron variants.
+* Oh, J., Apio, C., & Park, T. (2022). Mathematical modeling of the impact of Omicron variant on the COVID-19 situation in South Korea. Genomics & Informatics, 20 (2).
 
 #### Forecasting the spread of COVID-19 based on policy, vaccination, and Omicron data.
 * Authors: Kyulhee Han, Bogyeom Lee, Doeun Lee, Gyujin Heo, **Jooha Oh**, Seoyoung Lee, Catherine Apio, and Taesung Park
 * Systematically compared various machine learning prediction models and predictor variables to assess their impact on forecasting COVID-19 indicators.
+* Han, K., Lee, B., Lee, D., Heo, G., Oh, J., Lee, S., ... & Park, T. (2024). Forecasting the spread of COVID-19 based on policy, vaccination, and Omicron data. Scientific Reports, 14 (1), 9962.
 
 <br/>
 ### Preprint/In Progress
@@ -33,8 +35,3 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 #### Bootstrap-based confidence intervals for infectious disease forecasting models
 * Authors: Taewan Goo, Kyulhee Han, Hanbyul Song, Jiwon Park, Zhe Liue, **Jooha Oh**, Sayooj Abi Jose, and Taesung Park
 * proposed a generalized framework using bootstrap-based confidence intervals to enhance uncertainty quantification in COVID-19 forecasting models.
-
-
-- Dong-Jae Kang, Won-Yong Kim, Jin-Mee Kim, Hyun-Joo Bae, **Seok-Ho Son**, Ji-Hyun Lee,	_"METHOD FOR BROKERING CLOUD SERVICE USING SERVICE IMAGE STORE AND APPARATUS USING THE SAME,"_ Korea Patent: 15-0084496 (applied).
-
-- Jong Won Kim, Seokhee Lee, and **Seokho Son**, _“Apparatus and method for implementing haptic-based networked virtual environment which supports high-resolution tiled display,”_ US Patent No. US9041621, May 26, 2015.
