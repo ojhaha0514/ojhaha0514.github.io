@@ -14,6 +14,11 @@ title: Education
 * High school for the gifted in science and mathematics
 
 <br/>
+## Scholarship
+* **GJHJ Foundation Scholarship**, 2021, 2024 (4 semesters)  
+   * From GJHJ Foundation (Kwanjeong Lee Chong-hwan Foundation), full tuition plus 2.5M KRW for each semester
+
+<br/>
 ## Extracurricular Activities
 
 #### 222HZ (Dance Club of the College of Human Ecology at SNU), 2021-2023
@@ -22,7 +27,6 @@ title: Education
 * Vice Leader of the Club, 2020
 
 <br/>
-
 ## Major Courseworks (SNU)
 
 #### Statistics
