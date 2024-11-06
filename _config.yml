@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Jooha Oh
+title: Jooha Oh's Homepage
 
 # [수정필요] 간단한 사이트 설명
 description: Acedemic Website of Jooha Oh
@@ -14,14 +14,9 @@ author: Jooha Oh
 navbar-links:
   Career: "career"
   Publication: "publication"
-  GitHub: "https://github.com/seokho-son"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+  GitHub: "https://github.com/ojhaha0514"
+  Google Scholar: "https://scholar.google.com/citations?user=XJbTq5kAAAAJ&hl=ko&oi=ao"
 
-
-# [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/seokho-square-2.jpg"
-# 원형 아바타 이미지 여부 `true` 또는 `false`
-round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
