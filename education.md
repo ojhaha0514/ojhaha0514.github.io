@@ -50,7 +50,7 @@ title: Education
 <br/>
 ## Skills
 #### Programming Languages 
-* R(including MatchIt), Python(including Pytorch), Matlab
+* R (including MatchIt), Python (including Pytorch), Matlab
 
 #### Languages
 * Korean, English
