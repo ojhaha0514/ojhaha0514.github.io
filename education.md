@@ -19,6 +19,10 @@ title: Education
    * From GJHJ Foundation (Kwanjeong Lee Chong-hwan Foundation), full tuition plus 2.5M KRW for each semester
 
 <br/>
+## Honors
+* **Dean's List**, College of Natural Sciences, Seoul National University, 2019-2024
+
+<br/>
 ## Extracurricular Activities
 
 #### 222HZ (Dance Club of the College of Human Ecology at SNU), 2021-2023
