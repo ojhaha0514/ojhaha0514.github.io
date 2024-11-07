@@ -2,7 +2,7 @@
 layout: page
 title: Jooha Oh's Homepage
 subtitle: Statistics B.S. student, Seoul National University
-cover-img: 
+cover-img: /assets/img/background_ojhaha0514.jpg
 ---
 
 <br/>
