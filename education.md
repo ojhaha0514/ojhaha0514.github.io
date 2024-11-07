@@ -4,7 +4,7 @@ title: Education
 ---
 
 ## Education
-#### Seoul National University(SNU): Mar 2018 - Aug 2024
+#### Seoul National University(SNU): Mar 2019 - Feb 2025 (Expected)
 * B.S. in **Statistics**
 * Minor in **Biology**
 * Mandatory Military from March 2022 - Feb 2024
