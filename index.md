@@ -14,7 +14,7 @@ cover-img: /assets/img/background_jhoh.jpg
 <br/>
 ### Research Interests
 * Biostatistics, Machine Learning, Missing Data, Survival Analysis, Causal Inference
-* Bioinformatics, Polygenic Risk Scores
+* Bioinformatics, Time Series Forecasting, Polygenic Risk Scores
 * Neural Networks, Artificial Intelligence, Deep learning
 
 <br/>
