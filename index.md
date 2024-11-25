@@ -24,6 +24,6 @@ Combining classical statistics with modern artificial intelligence, I'm interest
 <br/>
 ## Contact
 ```
-Affiliation: Department of Statistics, Seoul National University
+Affiliation: Seoul National University, Department of Statistics
 Email: ojhaha[at]snu.ac.kr
 ```
