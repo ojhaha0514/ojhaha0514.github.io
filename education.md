@@ -14,8 +14,10 @@ title: Education
 
 <br/>
 ## Scholarship
-* **GJHJ Foundation Scholarship**, 2021, 2024 (4 semesters)  
-   * From GJHJ Foundation (Kwanjeong Lee Chong-hwan Foundation), full tuition plus 2.5M KRW for each semester
+* **Kwanjeong Educational Foundation Undergraduate Scholarship**, 2021, 2024 (4 semesters)  
+   * Full tuition plus 2.5M KRW for each semester, totaling 23M KRW.
+* **Sinyang Cultural Foundation Undergraduate Scholarship**, 2020 (2 semesters)  
+   * Full tuition, totaling 6M KRW.
 
 <br/>
 ## Honors
@@ -23,6 +25,9 @@ title: Education
 
 <br/>
 ## Extracurricular Activities
+* **SNU Sunshine Volunteer** (Student-led organization under
+Habitat for Humanity), 2020-2021
+
 * **222HZ** (Dance Club of the College of Human Ecology at SNU), 2021-2023
 
 * **MASTA** (Dance Club of the Department of Mathematical Sciences & Statistics at Seoul National University), 2019-2020
