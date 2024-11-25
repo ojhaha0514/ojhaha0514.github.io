@@ -27,11 +27,15 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 #### Enhancing COVID-19 Forecasts Through Multivariate Deep Learning Models
 * Authors: **Jooha Oh**, Liu Zhe, and Taesung Park
 * Applied a multivariate approach to DL(Deep Learning) models by modifying the input vector into a matrix that includes informative data from other countries.
-
-#### Surrogate Assisted Updating Method considering Partially Missing Covariates across Multiple Studies
-* Authors: **Jooha Oh**, and Yei Eun Shin
-* Proposed a new methodology that improves relative efficiency compared to existing methods by combining calibration and updating techniques through numerical simulations.
+* Oh, J., Liu, Z., Han, K., Goo, T., Song, H., Park, J., & Park, T. (2024+). "Enhancing COVID-19 Forecasts Through Multivariate Deep Learning Models". BMC Medical Informatics and Decision Making. (submitted, under review).
 
 #### Bootstrap-based confidence intervals for infectious disease forecasting models
 * Authors: Taewan Goo, Kyulhee Han, Hanbyul Song, Jiwon Park, Zhe Liue, **Jooha Oh**, Sayooj Abi Jose, and Taesung Park
 * Proposed a generalized framework using bootstrap-based confidence intervals to enhance uncertainty quantification in COVID-19 forecasting models.
+* Goo, T., Han, K., Song, H., Park, J., Liu, Z., Oh, J., Jose, S., & Park, T. "Confidence Intervals Estimation for Infectious Disease Forecasting Models". 2024 IEEE International Conference on Bioinformatics and Biomedicine Workshops (BIBM), Lisbon, Portugral, Dec. 2024. (accepted)
+  
+#### Surrogate Assisted Updating Method considering Partially Missing Covariates across Multiple Studies
+* Authors: **Jooha Oh**, and Yei Eun Shin
+* Proposed a new methodology that improves relative efficiency compared to existing methods by combining calibration and updating techniques through numerical simulations.
+
+
