@@ -36,7 +36,7 @@ Habitat for Humanity at SNU), 2020-2021
 <br/>
 ## Major Courseworks (SNU)
 
-Here is a selected description of contents covered in my [Undergraduate Coursework](/docs/courses.pdf).
+Here is a selected description of contents covered in my [Undergraduate Coursework](/pdfs/courses.pdf).
 
 #### Statistics
 * Mathematical Statistics 1 & 2
