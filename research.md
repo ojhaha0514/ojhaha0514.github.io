@@ -20,7 +20,7 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 #### Forecasting the spread of COVID-19 based on policy, vaccination, and Omicron data.
 * Authors: Kyulhee Han, Bogyeom Lee, Doeun Lee, Gyujin Heo, **Jooha Oh**, Seoyoung Lee, Catherine Apio, and Taesung Park
 * Systematically compared various machine learning prediction models and predictor variables to assess their impact on forecasting COVID-19 indicators.
-* Han, K., Lee, B., Lee, D., Heo, G., Oh, J., Lee, S., ... & Park, T. (2024). Forecasting the spread of COVID-19 based on policy, vaccination, and Omicron data. Scientific Reports, 14 (1), 9962. [doi.org/10.5808/gi.22025](https://doi.org/10.1038/s41598-024-58835-9)
+* Han, K., Lee, B., Lee, D., Heo, G., Oh, J., Lee, S., ... & Park, T. (2024). Forecasting the spread of COVID-19 based on policy, vaccination, and Omicron data. Scientific Reports, 14 (1), 9962. [doi.org/10.1038/s41598-024-58835-9](https://doi.org/10.1038/s41598-024-58835-9)
 
 <br/>
 ### Preprint/In Progress
