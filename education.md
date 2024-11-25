@@ -26,11 +26,11 @@ title: Education
 <br/>
 ## Extracurricular Activities
 * **SNU Sunshine Volunteer** (Student-led organization under
-Habitat for Humanity), 2020-2021
+Habitat for Humanity at SNU), 2020-2021
 
 * **222HZ** (Dance Club of the College of Human Ecology at SNU), 2021-2023
 
-* **MASTA** (Dance Club of the Department of Mathematical Sciences & Statistics at Seoul National University), 2019-2020
+* **MASTA** (Dance Club of the Department of Mathematical Sciences & Statistics at SNU), 2019-2020
   * Vice Leader of the Club, 2020
 
 <br/>
