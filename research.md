@@ -15,12 +15,12 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 #### Enhancing the performance of COVID-19 case forecasting through mathematical modeling
 * Authors: **Jooha Oh**, Caterine Apio, and Taesung Park
 * Extended the classical SIR model to the SEIQRDV3P model, incorporating three stages of vaccination as new compartments and accounting for the ratio of delta and omicron variants.
-* Oh, J., Apio, C., & Park, T. (2022). Mathematical modeling of the impact of Omicron variant on the COVID-19 situation in South Korea. Genomics & Informatics, 20 (2).
+* Oh, J., Apio, C., & Park, T. (2022). Mathematical modeling of the impact of Omicron variant on the COVID-19 situation in South Korea. Genomics & Informatics, 20 (2). [doi.org/10.5808/gi.22025](https://doi.org/10.5808/gi.22025)
 
 #### Forecasting the spread of COVID-19 based on policy, vaccination, and Omicron data.
 * Authors: Kyulhee Han, Bogyeom Lee, Doeun Lee, Gyujin Heo, **Jooha Oh**, Seoyoung Lee, Catherine Apio, and Taesung Park
 * Systematically compared various machine learning prediction models and predictor variables to assess their impact on forecasting COVID-19 indicators.
-* Han, K., Lee, B., Lee, D., Heo, G., Oh, J., Lee, S., ... & Park, T. (2024). Forecasting the spread of COVID-19 based on policy, vaccination, and Omicron data. Scientific Reports, 14 (1), 9962.
+* Han, K., Lee, B., Lee, D., Heo, G., Oh, J., Lee, S., ... & Park, T. (2024). Forecasting the spread of COVID-19 based on policy, vaccination, and Omicron data. Scientific Reports, 14 (1), 9962. [doi.org/10.5808/gi.22025](https://doi.org/10.1038/s41598-024-58835-9)
 
 <br/>
 ### Preprint/In Progress
