@@ -25,6 +25,12 @@ title: Education
 
 <br/>
 ## Extracurricular Activities
+#### Student Government
+* **Vice President of the Department of Statistics Student Council** at SNU, 2020-2021
+* 
+* Member of the **College of Natural Sciences Student Council Operations*** at SNU, 2019-2020
+
+#### Social Club
 * **SNU Sunshine Volunteer** (Student-led organization under
 Habitat for Humanity at SNU), 2020-2021
 
