@@ -27,12 +27,11 @@ title: Education
 ## Extracurricular Activities
 #### Student Government
 * **Vice President of the Department of Statistics Student Council** at SNU, 2020-2021
-* 
+  
 * Member of the **College of Natural Sciences Student Council Operations*** at SNU, 2019-2020
 
 #### Social Club
-* **SNU Sunshine Volunteer** (Student-led organization under
-Habitat for Humanity at SNU), 2020-2021
+* **SNU Sunshine Volunteer** (Student-led organization under Habitat for Humanity at SNU), 2020-2021
 
 * **222HZ** (Dance Club of the College of Human Ecology at SNU), 2021-2023
 
@@ -40,9 +39,9 @@ Habitat for Humanity at SNU), 2020-2021
   * Vice Leader of the Club, 2020
 
 <br/>
-## Major Courseworks (SNU)
+## Undergraduate Courseworks (SNU)
 
-Here is a selected description of contents covered in my [Undergraduate Coursework](/pdfs/courses.pdf).
+Here is a selected description of contents covered in my [Undergraduate Courseworks](/pdfs/courses.pdf).
 
 #### Statistics
 * Mathematical Statistics 1 & 2
