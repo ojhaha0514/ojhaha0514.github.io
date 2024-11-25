@@ -25,7 +25,7 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 <br/>
 ### Preprint/In Progress
 #### Enhancing COVID-19 Forecasts Through Multivariate Deep Learning Models
-* Authors: **Jooha Oh**, Liu Zhe, and Taesung Park
+* Authors: **Jooha Oh**, Liu Zhe, Kyulhee Han, Taewan Goo, Hanbyul Song, Jiwon Park, and Taesung Park
 * Applied a multivariate approach to DL(Deep Learning) models by modifying the input vector into a matrix that includes informative data from other countries.
 * Oh, J., Liu, Z., Han, K., Goo, T., Song, H., Park, J., & Park, T. (2024+). "Enhancing COVID-19 Forecasts Through Multivariate Deep Learning Models". BMC Medical Informatics and Decision Making. (submitted, under review).
 
